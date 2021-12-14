@@ -1,4 +1,4 @@
-- 👋 Hello, call me CraWFish0
+- 👋 Hello, CraWFish0
 - 👀 I’m interested in waterfalls
 - 🌱 I’m currently learning buoyant force
 - 💞️ I’m looking to collaborate on the moon
